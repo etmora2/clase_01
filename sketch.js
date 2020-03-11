@@ -1,6 +1,5 @@
 var a = 50; 
-var b = 80;
-var c = b - a;
+var c;
 function setup() {
   createCanvas (windowWidth,windowHeight);
 }
